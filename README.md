@@ -1,9 +1,22 @@
 # Selo de Usabilidade e Acessibilidade
 
+- Data de criação: 01/04/2025
+- Última atualização: 04/09/2025
 - URL: https://selo.usabilidade.gov.pt
-- Owner: AMA, I.P.
+- Propriedade: ARTE, I.P.
+- Candidatura: Ouro
   
-## Consulte aqui: [Relatório do Selo de Usabilidade](https://unidade-acesso.github.io/report_001/relatorio_report_001.html)
+## Relatório de Auditoria
 
-### Recursos de apoio ao relatório:
+Consulte aqui a última atualização: [Relatório do Selo de Usabilidade e Acessibilidade](https://unidade-acesso.github.io/report_001/relatorio_report_001.html)
+
+<details>
+  <summary>Histórico de atualizações</summary>
+  <ul aria-lagel="lista de relatórios já efetuados">
+  <li><a href="https://unidade-acesso.github.io/report_001/01042025_report_001.html">(01/04/2025). Relatório do Selo de Usabilidade e Acessibilidade</li>
+  </ul>
+</details>
+
+## Recursos de apoio para as entidades
+
 - [Guia de utilização do relatório de auditorias](https://unidade-acesso.github.io/reports/guiao.html)
