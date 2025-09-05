@@ -1,7 +1,6 @@
 # Selo de Usabilidade e Acessibilidade
 
 - Data de criação: 01/04/2025
-- Última atualização: 04/09/2025
 - URL: https://selo.usabilidade.gov.pt
 - Propriedade: ARTE, I.P.
 - Candidatura: Ouro
