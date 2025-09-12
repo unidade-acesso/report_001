@@ -16,7 +16,3 @@ Consulte aqui a última atualização: [Relatório do Selo de Usabilidade e Aces
     <li><a href="https://unidade-acesso.github.io/report_001/30042025_report_001.html">(30/04/2025). Relatório do Selo de Usabilidade e Acessibilidade</li>
   </ul>
 </details>
-
-## Recursos de apoio para as entidades
-
-- [Guia de utilização do relatório de auditorias](https://unidade-acesso.github.io/reports/guiao.html)
