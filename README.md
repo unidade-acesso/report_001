@@ -7,7 +7,7 @@
   
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do Selo de Usabilidade e Acessibilidade](https://unidade-acesso.github.io/report_001/relatorio_report_001.html)
+Consulte aqui a última atualização: [Relatório do Selo de Usabilidade e Acessibilidade](relatorio_report_001.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
